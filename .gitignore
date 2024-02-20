@@ -16,6 +16,5 @@ target/
 build/
 
 ### VS Code ###
-.vscode/
 /mvnw
 /mvnw.cmd
